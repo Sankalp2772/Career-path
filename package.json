@@ -1,0 +1,10 @@
+{
+  "name": "career-path-navigator-fullstack",
+  "version": "1.0.0",
+  "description": "Full stack Career Path Navigator project",
+  "scripts": {
+    "install-backend": "cd backend && npm install",
+    "setup-db": "cd backend && npm run setup-db",
+    "start": "cd backend && npm start"
+  }
+}
